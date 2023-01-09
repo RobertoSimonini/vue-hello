@@ -3,7 +3,8 @@
 const app = Vue.createApp({
     data() {
         return {
-            text: 'Vue Hello'
+            text: 'Vue Hello',
+            image: 'https://unsplash.it/600/300?image=173'
         }
     }
 });
